@@ -1,0 +1,3 @@
+[submodule "dl_with_pytorch"]
+	path = dl_with_pytorch
+	url = https://github.com/deep-learning-with-pytorch/dlwpt-code
