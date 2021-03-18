@@ -8,3 +8,9 @@
 ### In work :clock9:
 - https://www.youtube.com/c/elliotwaite/videos
 ### Viewed :heavy_check_mark:
+
+
+### Integrate tools in work:
+- wandb
+- CircleCi
+- neutron
