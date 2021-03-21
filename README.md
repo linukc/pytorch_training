@@ -6,8 +6,8 @@
 - https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g
 - https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw (different archtectures in keras with comments)
 ### In work :clock9:
-- [Complete Pytorch Tensor Tutorial](https://www.youtube.com/watch?v=x9JiIFvlUwk)
 ### Viewed :heavy_check_mark:
+- [Complete Pytorch Tensor Tutorial](https://www.youtube.com/watch?v=x9JiIFvlUwk)
 - [PyTorch Autograd Explained](https://www.youtube.com/c/elliotwaite/videos)
 
 ### Integrate tools in work:
