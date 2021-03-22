@@ -6,7 +6,7 @@
 - https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g
 - https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw (different archtectures in keras with comments)
 ### In work :clock9:
-- [How to deal with Imbalanced Datasets in PyTorch. DataSampler tutorial](https://www.youtube.com/watch?v=4JFVhJyTZ44)
+- [How to deal with Imbalanced Datasets in PyTorch. DataSampler tutorial](https://www.youtube.com/watch?v=4JFVhJyTZ44) => DataSampler.ipynb
 ### Viewed :heavy_check_mark:
 - [Pytorch officail site 60 munites into](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) => 60_munites_intro_from_official_site.ipynb
 ----------------
