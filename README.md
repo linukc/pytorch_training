@@ -11,7 +11,7 @@
 - [PyTorch Autograd Explained](https://www.youtube.com/c/elliotwaite/videos)
 
 ### Integrate tools in work:
-- wandb
+- wandb + TensorBoard
 - CircleCi
 - neutron
 - captum
