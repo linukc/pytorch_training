@@ -9,6 +9,7 @@
 ### Viewed :heavy_check_mark:
 - [Complete Pytorch Tensor Tutorial](https://www.youtube.com/watch?v=x9JiIFvlUwk)
 - [PyTorch Autograd Explained](https://www.youtube.com/c/elliotwaite/videos)
+- [PyTorch LR Scheduler](https://www.youtube.com/watch?v=81NJgoR5RfY&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=22)
 - [Pytorch TensorBoard Tutorial](https://www.youtube.com/watch?v=RLqsxWaQdHE&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=15)
 - [Visualization with TensorBoard](https://www.youtube.com/watch?v=w_TOhccU3ZY)
 
