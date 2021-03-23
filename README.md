@@ -8,6 +8,7 @@
 ### In work :clock9:
 - [How to deal with Imbalanced Datasets in PyTorch. DataSampler tutorial](https://www.youtube.com/watch?v=4JFVhJyTZ44) => DataSampler.ipynb
 - [Pytorch Neural Network example](https://www.youtube.com/watch?v=Jy4wM2X21u0&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=3)
+- [Button labels](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
 ### Viewed :heavy_check_mark:
 - [Pytorch officail site 60 munites into](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) => 60_munites_intro_from_official_site.ipynb
 ----------------
