@@ -5,6 +5,7 @@
 - https://www.youtube.com/c/SebastianRaschka/videos
 - https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g
 - https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw (different archtectures in keras with comments)
+- [https://github.com/haotian-liu/yolact_edge](cool example of a complex work)
 ### In work :clock9:
 - [How to deal with Imbalanced Datasets in PyTorch. DataSampler tutorial. The strategy to draw samples from the dataset. Replacement of shuffle](https://www.youtube.com/watch?v=4JFVhJyTZ44) => DataSampler.ipynb
 - [Pytorch Neural Network example](https://www.youtube.com/watch?v=Jy4wM2X21u0&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=3)
